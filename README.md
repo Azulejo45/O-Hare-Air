@@ -1,3 +1,4 @@
+<img width="920" height="514" alt="Captura desde 2026-09-30 07-56-40" src="https://github.com/user-attachments/assets/65d321e3-4c76-4a4e-9573-29efde13d4a9" />
 
 # ┕━━O-Hare-Air━━┙ 
 - Proyecto de sistema de ventilación automatizado y controlado por ESP32-C3 Super Mini. Equipado con control PWM mediante MOSFET, sensor de temperatura DS18B20 y regulación de voltaje eficiente.
@@ -92,6 +93,7 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 \
 .
 ## Diseño del circuito
+<img width="920" height="514" alt="Captura desde 2026-09-30 07-56-40" src="https://github.com/user-attachments/assets/d9188fee-6da7-4d08-b692-8fa9af606d3c" />
 \
 ### Descripcion del funcionamiento
 \
@@ -99,10 +101,17 @@ El sistema monitorea de manera constante la temperatura ambiental o del componen
 De esta forma, la velocidad del ventilador de 12V aumenta o disminuye de forma proporcional a la temperatura registrada, garantizando una disipación eficiente y un funcionamiento automatizado. El diodo 1N4007 protege al circuito de las corrientes inversas generadas por el motor al apagarse o variar su velocidad.
 
 ## Esquematico
+
+<img width="511" height="418" alt="Captura desde 2026-09-30 07-56-06" src="https://github.com/user-attachments/assets/0e5f66bd-74d3-4031-bc84-999195ec9045" /> /
+
 ## Layout de PCB
+
+<img width="870" height="517" alt="Captura desde 2026-09-30 08-51-02" src="https://github.com/user-attachments/assets/81eff384-3c82-454d-94fd-b4b214e32b96" />
+\
+
 ## Pasos a seguir para el armado del sistema
 
-## -|Soldar los componentes en la PCB en el siguiente orden recomendado:
+### -|Soldar los componentes en la PCB en el siguiente orden recomendado:
 
 1. Resistencias y diodos SMD/THT (incluyendo el diodo 1N4007).
 
