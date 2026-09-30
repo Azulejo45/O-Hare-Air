@@ -69,6 +69,7 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 > Voltaje de entrada: 4.75V - 23V.
 
 > Voltaje de salida ajustable: 5V.
+
 \
 \
 ## ────────────∘₊✧────────────
