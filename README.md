@@ -1,4 +1,4 @@
-<img width="920" height="514" alt="Captura desde 2026-09-30 07-56-40" src="https://github.com/user-attachments/assets/65d321e3-4c76-4a4e-9573-29efde13d4a9" />
+
 
 # ┕━━O-Hare-Air━━┙ 
 - Proyecto de sistema de ventilación automatizado y controlado por ESP32-C3 Super Mini. Equipado con control PWM mediante MOSFET, sensor de temperatura DS18B20 y regulación de voltaje eficiente.
@@ -95,6 +95,7 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 ## Diseño del circuito
 <img width="920" height="514" alt="Captura desde 2026-09-30 07-56-40" src="https://github.com/user-attachments/assets/d9188fee-6da7-4d08-b692-8fa9af606d3c" />
 \
+
 ### Descripcion del funcionamiento
 \
 El sistema monitorea de manera constante la temperatura ambiental o del componente a través del sensor DS18B20 conectado al ESP32-C3. Mediante un algoritmo de control, el microcontrolador varía el ciclo de trabajo de la señal PWM aplicada a la compuerta (Gate) del MOSFET IRLZ44N.
@@ -106,7 +107,8 @@ De esta forma, la velocidad del ventilador de 12V aumenta o disminuye de forma p
 
 ## Layout de PCB
 
-<img width="870" height="517" alt="Captura desde 2026-09-30 08-51-02" src="https://github.com/user-attachments/assets/81eff384-3c82-454d-94fd-b4b214e32b96" />
+<img width="870" height="517" alt="Captura desde 2026-09-30 08-55-36" src="https://github.com/user-attachments/assets/d040f0bd-a03c-40d3-9ced-9f8c89b9ab27" />
+
 \
 
 ## Pasos a seguir para el armado del sistema
