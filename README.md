@@ -2,7 +2,7 @@
 
 # ┕━━O-Hare-Air━━┙ 
 - Proyecto de sistema de ventilación automatizado y controlado por ESP32-C3 Super Mini. Equipado con control PWM mediante MOSFET, sensor de temperatura DS18B20 y regulación de voltaje eficiente.
-.
+
 
 ### -----〈 Autores  〉-----\
 
