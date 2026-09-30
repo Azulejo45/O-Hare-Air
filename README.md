@@ -42,7 +42,7 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 
 > Bluetooth 5.0 LE (Low Energy).
 
-### Alimentación: Funciona a 3,3 V con entrada USB-C de 5 V.
+> Alimentación: Funciona a 3,3 V con entrada USB-C de 5 V.
 
 - Sensor de Temperatura: DS18B20 (KY-001).
 
