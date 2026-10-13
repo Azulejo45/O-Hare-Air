@@ -94,7 +94,8 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 \
 .
 ## Diseño del circuito
-<img width="920" height="514" alt="Captura desde 2026-09-30 07-56-40" src="https://github.com/user-attachments/assets/d9188fee-6da7-4d08-b692-8fa9af606d3c" />
+<img width="828" height="476" alt="image" src="https://github.com/user-attachments/assets/b1743931-0590-4e8f-a783-3338dfa12d3f" />
+
 \
 
 ### Descripcion del funcionamiento
@@ -104,11 +105,12 @@ De esta forma, la velocidad del ventilador de 12V aumenta o disminuye de forma p
 
 ## Esquematico
 
-<img width="511" height="418" alt="Captura desde 2026-09-30 07-56-06" src="https://github.com/user-attachments/assets/0e5f66bd-74d3-4031-bc84-999195ec9045" /> /
+<img width="616" height="492" alt="Captura desde 2026-10-13 10-17-46" src="https://github.com/user-attachments/assets/1de5ee1c-a9f6-4fd7-89d4-c19c0ed7ea1b" />
 
 ## Layout de PCB
 
-<img width="829" height="490" alt="image" src="https://github.com/user-attachments/assets/3c748517-b789-458f-b47e-d88b0fda82a3" />
+<img width="809" height="476" alt="Captura desde 2026-10-13 10-41-15" src="https://github.com/user-attachments/assets/71694275-326e-4580-b338-eb597328da90" />
+
 
 
 \
@@ -126,16 +128,16 @@ De esta forma, la velocidad del ventilador de 12V aumenta o disminuye de forma p
 4. Zócalos o pines para el ESP32-C3 Super Mini y el MOSFET.
 
 # Medidas de seguridad.
-## .°-> Verifique la polaridad de la fuente de alimentación de 12V antes de conectarla al Jack DC para evitar daños en los reguladores.
+- .°-> Verifique la polaridad de la fuente de alimentación de 12V antes de conectarla al Jack DC para evitar daños en los reguladores.
 
-## .°-> Asegúrese de que el diodo 1N4007 esté correctamente orientado (con el cátodo apuntando hacia la línea positiva de alimentación del motor).
+-.°-> Asegúrese de que el diodo 1N4007 esté correctamente orientado (con el cátodo apuntando hacia la línea positiva de alimentación del motor).
 
-# -|Gabinete y Montaje 3D
+ # -|Gabinete y Montaje 3D
 Descargar el modelo 3D del soporte o gabinete ubicado en la carpeta de HARDWARE.
 
-Imprimir la pieza en PLA.
+- Imprimir la pieza en PLA.
 
-Ensamblar la placa de circuito impreso dentro de la estructura junto con el ventilador y el sensor DS18B20 en la zona de medición.
+- Ensamblar la placa de circuito impreso dentro de la estructura junto con el ventilador y el sensor DS18B20 en la zona de medición.
 
 ## -|Código y Firmware
 El código establece las lecturas del sensor de temperatura y calcula la salida PWM necesaria para gobernar el MOSFET.
@@ -148,11 +150,11 @@ Principales tareas del programa:
 ## -|Compilacion/Carga
 Utilice un cable USB tipo C para conectar el ESP32-C3 a un ordenador. Se recomienda utilizar el entorno de desarrollo PlatformIO o Arduino IDE.\
 
-Seleccione la placa ESP32-C3 Dev Module (o Super Mini equivalente) y el puerto COM correspondiente.\
+- Seleccione la placa ESP32-C3 Dev Module (o Super Mini equivalente) y el puerto COM correspondiente.\
 
-Verifique que estén instaladas las librerías necesarias para el manejo del sensor de temperatura.\
+- Verifique que estén instaladas las librerías necesarias para el manejo del sensor de temperatura.\
 
-Compile y cargue el código en el microcontrolador.
+- Compile y cargue el código en el microcontrolador.
 
 ## -[Librerías principales
 OneWire
