@@ -8,9 +8,10 @@
 
 > ⋆ˊˎ-Velazquez Joaquim
 
-> ---30/09/2026---\
-
-
+ ---30/09/2026---
+\
+\
+\
 ### •---Especificaciones generales 
 \
 ˚₊· ͟͟͞͞  Control de velocidad: PWM por MOSFET (IRLZ44N).\
@@ -62,7 +63,7 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 
 > Uso: Diodo flyback en antiparalelo con el motor para suprimir picos inductivos.
 
-> Regulador de voltaje: Módulo Mini360.
+- Regulador de voltaje: Módulo Mini360.
 
 > Tipo: Step-Down Buck Converter.
 
@@ -72,7 +73,6 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 
 \
 \
-## ────────────∘₊✧────────────
 \
 \
 .
@@ -108,7 +108,8 @@ De esta forma, la velocidad del ventilador de 12V aumenta o disminuye de forma p
 
 ## Layout de PCB
 
-<img width="870" height="517" alt="Captura desde 2026-09-30 08-55-36" src="https://github.com/user-attachments/assets/d040f0bd-a03c-40d3-9ced-9f8c89b9ab27" />
+<img width="829" height="490" alt="image" src="https://github.com/user-attachments/assets/3c748517-b789-458f-b47e-d88b0fda82a3" />
+
 
 \
 
