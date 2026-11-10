@@ -22,7 +22,7 @@
 
 ˚₊· ͟͟͞͞  Material de la estructura/gabinete: PLA.
 
-________________________________ \
+_____________________________ \
 \
 \
 .
@@ -70,6 +70,18 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 > Voltaje de entrada: 4.75V - 23V.
 
 > Voltaje de salida ajustable: 5V.
+
+- WS2812 (tira led x12)
+
+> Tipo: RGB
+
+> Uso: proyección de imagenes en el aspa
+
+- Sensor de efecto Hall
+
+> Uso: Medición de los rpms del motor para ayudar  los WS2812
+
+> Alimentción: 5v con un división de tensión 3.3v para la señal de retorno
 
 \
 \
