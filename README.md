@@ -101,6 +101,9 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 
 ➸ Jack DC y Borneras de conexión.
 
+➸ Leds WS2812 (x12)
+
+➸ Sensor efecto Hall
 \
 \
 \
