@@ -94,7 +94,8 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 \
 .
 ## Diseño del circuito
-<img width="828" height="476" alt="image" src="https://github.com/user-attachments/assets/b1743931-0590-4e8f-a783-3338dfa12d3f" />
+<img width="850" height="497" alt="Captura desde 2026-11-10 10-29-12" src="https://github.com/user-attachments/assets/c1dcdf2e-6912-4620-93d3-ff08470231d0" />
+
 
 \
 
@@ -105,11 +106,13 @@ De esta forma, la velocidad del ventilador de 12V aumenta o disminuye de forma p
 
 ## Esquematico
 
-<img width="616" height="492" alt="Captura desde 2026-10-13 10-17-46" src="https://github.com/user-attachments/assets/1de5ee1c-a9f6-4fd7-89d4-c19c0ed7ea1b" />
+<img width="508" height="408" alt="Captura desde 2026-11-10 10-33-06" src="https://github.com/user-attachments/assets/bd0258ac-9d9f-441a-9051-09a1f8353400" />
+
 
 ## Layout de PCB
 
-<img width="809" height="476" alt="Captura desde 2026-10-13 10-41-15" src="https://github.com/user-attachments/assets/71694275-326e-4580-b338-eb597328da90" />
+<img width="850" height="497" alt="Captura desde 2026-11-10 10-30-03" src="https://github.com/user-attachments/assets/00c87e2f-1ab6-48e0-8b5e-834d8d4326d7" />
+
 
 
 
