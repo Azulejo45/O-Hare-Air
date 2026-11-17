@@ -110,8 +110,9 @@ El objetivo principal de este proyecto es diseñar e implementar un sistema de v
 .
 ## Diseños de los circuitos
 
-<img width="754" height="440" alt="Captura desde 2026-11-13 21-19-48" src="https://github.com/user-attachments/assets/b2715d24-0d28-4d8a-b8ba-bd6da9a279b1" />
-<img width="531" height="490" alt="image" src="https://github.com/user-attachments/assets/e6ac237e-07e7-4947-ac82-52059ba71561" />
+<img width="915" height="520" alt="image" src="https://github.com/user-attachments/assets/0faf988c-7bce-4c6e-a5ad-fdd311f0bb29" />
+
+<img width="530" height="490" alt="image" src="https://github.com/user-attachments/assets/e6ac237e-07e7-4947-ac82-52059ba71561" />
 
 
 \
@@ -123,14 +124,16 @@ De esta forma, la velocidad del ventilador de 12V aumenta o disminuye de forma p
 
 ## Esquematicos
 
-<img width="485" height="400" alt="image" src="https://github.com/user-attachments/assets/1adc4fdf-a102-4b50-a076-92fa73c31c1c" />
+<img width="575" height="485" alt="image" src="https://github.com/user-attachments/assets/0c5dd659-6a0b-42ce-ad0b-9ca9ead35877" />
+
 
 <img width="405" height="530" alt="image" src="https://github.com/user-attachments/assets/3e8811b0-108e-4a9d-abd5-009aea7a9729" />
 
 
 ## Layouts de PCBs
 
-<img width="620" height="375" alt="image" src="https://github.com/user-attachments/assets/78809501-d481-43cd-bb31-1757f2940bcb" />
+<img width="880" height="520" alt="image" src="https://github.com/user-attachments/assets/b695685c-ed56-40bf-8e94-d93ddfa47045" />
+
 
 <img width="530" height="490" alt="Captura desde 2026-11-13 21-24-43" src="https://github.com/user-attachments/assets/a1f4a434-2938-4571-a3b8-7a7ddecd5540" />
 
